@@ -1,0 +1,36 @@
+ [
+  {
+    "id": 1,
+    "name": "DOUBLE BREAST NAVY",
+    "price": 120,
+    "salePrice": 100,
+    "category": "men",
+    "image": "src/images/DBN.webp",
+    "isSale": true
+  },
+  {
+    "id": 2,
+    "name": "TEXTURED BLENDED PRINCE COAT",
+    "price": 120,
+    "salePrice": 100,
+    "category": "women",
+    "image": "src/images/TEXTURED BLENDED PRINCE COAT.webp",
+    "isSale": true
+  },
+  {
+   "id": 3,
+    "name": "DENIM JACKETS",
+    "price": 50,
+    "category": "men",
+    "image": "src/images/d.webp",
+    "isSale": false
+  },
+  {
+  "id": 4,
+   "name": "ZIPER HOODIE",
+   "price": 30,
+   "category": "kids",
+   "image": "src/images/ziper.webp",
+    "isSale": false
+  }
+]

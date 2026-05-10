@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "name": "CASUAL TROUSER CROSS POCKET BLACK",
+    "category": "men",
+    "price": 25,
+    "image": "src/images/CASUAL TROUSER CROSS POCKET BLACK.webp"
+  },
+
+  {
+    "id": 2,
+    "name": "CASUAL TROUSER CROSS POCKET KHAKI",
+    "category": "men",
+    "price": 25,
+    "image": "src/images/CASUAL TROUSER CROSS POCKET KHAKI.webp"
+  },
+
+  {
+    "id": 3,
+    "name": "CASUAL TROUSER CROSS POCKET OATMEAL",
+    "category": "men",
+    "price": 25,
+    "image": "src/images/CASUAL TROUSER CROSS POCKET OATMEAL.webp"
+  },
+  {
+    "id": 4,
+    "name": "ELASTICATED WAIST CASUAL PANT STONE",
+    "category": "men",
+    "price": 25,
+   
+    "image": "src/images/ELASTICATED WAIST CASUAL PANT STONE.webp"
+  },
+{
+    "id": 5,
+    "name": "RELAXED FIT CASUAL SHIRT NAVY",
+    "category": "men",
+    "price": 35,
+   
+    "image": "src/images/RELAXED FIT CASUAL SHIRT NAVY.webp"
+  },
+{
+    "id": 6,
+    "name": "SMART FIT CASUAL SHIRT BEIGE CHECK",
+    "category": "men",
+    "price": 35,
+    "image": "src/images/SMART FIT CASUAL SHIRT BEIGE CHECK.webp"
+  },
+{
+    "id": 7,
+    "name": "SMART FIT CASUAL SHIRT BLACK CHECK",
+    "category": "men",
+    "price": 35,
+   
+    "image": "src/images/SMART FIT CASUAL SHIRT BLACK CHECK.webp"
+  },
+{
+    "id": 8,
+    "name": "SMART FIT CASUAL SHIRT NAVY CHECK",
+    "category": "men",
+    "price": 35,
+  
+    "image": "src/images/SMART FIT CASUAL SHIRT NAVY CHECK.webp"
+  },
+{
+    "id": 9,
+    "name": "BLENDED KAMEEZ SHALWAR - SIGNATURE COLLECTION BLACK",
+    "category": "men",
+    "price": 45,
+    "image": "src/images/BLENDED KAMEEZ SHALWAR - SIGNATURE COLLECTION BLACK.webp"
+  },
+{
+    "id": 10,
+    "name": "BLENDED KAMEEZ SHALWAR - SIGNATURE COLLECTION MID GREY",
+    "category": "men",
+    "price": 45,
+  
+    "image": "src/images/BLENDED KAMEEZ SHALWAR - SIGNATURE COLLECTION MID GREY.webp"
+  },
+{
+    "id": 11,
+    "name": "JACQUARD BLENDED KAMEEZ SHALWAR - SIGNATURE COLLECTION BLACK",
+    "category": "men",
+    "price": 45,
+    "image": "src/images/JACQUARD BLENDED KAMEEZ SHALWAR - SIGNATURE COLLECTION BLACK.webp"
+  },
+{
+    "id": 12,
+    "name": "JACQUARD BLENDED KAMEEZ SHALWAR - SIGNATURE COLLECTION NAVY",
+    "category": "men",
+    "price": 45,
+   
+    "image": "src/images/JACQUARD BLENDED KAMEEZ SHALWAR - SIGNATURE COLLECTION NAVY.webp"
+  },
+{
+    "id": 13,
+    "name": "SLIM FIT 2 PIECE SUIT BROWN",
+    "category": "men",
+    "price": 55,
+    "image": "src/images/SLIM FIT 2 PIECE SUIT BROWN.webp"
+  },
+{
+    "id": 14,
+    "name": "SLIM FIT 2 PIECE SUIT LIGHT BLUE",
+    "category": "men",
+    "price": 55,
+    "image": "src/images/SLIM FIT 2 PIECE SUIT LIGHT BLUE.webp"
+  },
+{
+    "id": 15,
+    "name": "SLIM FIT 2 PIECE SUIT NAVY",
+    "category": "men",
+    "price": 55,
+    "image": "src/images/SLIM FIT 2 PIECE SUIT NAVY.webp"
+  },
+{
+    "id": 16,
+    "name": "SMART FIT 2 PIECE SUIT GREY",
+    "category": "men",
+    "price": 55,
+    "image": "src/images/SMART FIT 2 PIECE SUIT GREY.webp"
+  },
+  {
+    "id": 17,
+    "name": "Summer Petal - Silk Long Dress",
+    "category": "women",
+    "price": 50,
+    "image": "src/images/Summer Petal - Silk Long Dress.webp"
+  },
+  {
+    "id": 18,
+    "name": "Pink Printed Co Ord Set",
+    "category": "women",
+    "price": 55,
+    
+    "image": "src/images/Pink Printed Co Ord Set.webp"
+  },
+  
+  {
+    "id": 19,
+    "name": "Fabriano",
+    "category": "women",
+    "price": 30,
+    "image": "src/images/Fabriano.webp"
+  }
+,
+  {
+    "id": 20,
+    "name": "Noorma Kaamal",
+    "category": "women",
+    "price": 50,
+    
+    "image": "src/images/Noorma Kaamal.webp"
+  }
+  ,
+  {
+    "id": 21,
+    "name": "Peach Republic",
+    "category": "women",
+    "price": 30,
+    "image": "src/images/Peach Republic.webp"
+  }
+  ,
+  {
+    "id": 22,
+    "name": "Pink Cambric Top",
+    "category": "women",
+    "price": 50,
+    "image": "src/images/Pink Cambric Top.webp"
+  }
+  ,
+  {
+    "id": 23,
+    "name": "Raiz",
+    "category": "women",
+    "price": 60,
+    
+    "image": "src/images/Raiz.webp"
+  }
+  ,
+  {
+    "id": 24,
+    "name": "Cameo Rose Drop Needle Zip POLO",
+    "category": "women",
+    "price": 60,
+    "image": "src/images/Cameo Rose Drop Needle Zip POLO.webp"
+  }
+  ,
+  {
+    "id": 25,
+    "name": "Silk And Saffron",
+    "category": "women",
+    "price": 30,
+    "image": "src/images/Silk And Saffron.webp"
+  }
+  ,
+  {
+    "id": 26,
+    "name": "BLACK SQUARE NECK BACK KNOT DRESS",
+    "category": "women",
+    "price": 40,
+    "image": "src/images/BLACK SQUARE NECK BACK KNOT DRESS.webp"
+    }
+    ,
+  {
+    "id": 27,
+    "name": "Contrast Pipping",
+    "category": "women",
+    "price": 40,
+    "image": "src/images/Contrast Pipping.webp"
+  }
+  ,
+  {
+    "id": 28,
+    "name": "Ash Rose Basic POLO",
+    "category": "women",
+    "price": 50,
+   
+    "image": "src/images/Ash Rose Basic POLO.webp"
+  }
+  ,
+  {
+    "id": 29,
+    "name": "Stylish Casual",
+    "category": "kids",
+    "price": 25,
+  
+    "image": "src/images/Stylish Casual.webp"
+  } ,
+  {
+    "id": 30,
+    "name": "T-Shirt & Pants Set",
+    "category": "kids",
+    "price": 25,
+    "image": "src/images/T-Shirt & Pants Set.webp"
+  } ,
+  {
+    "id": 31,
+    "name": "Boys Athletic",
+    "category": "kids",
+    "price": 25,
+   
+    "image": "src/images/Boys Athletic.webp"
+  } ,
+  {
+    "id": 32,
+    "name": "Dynamic Kids Comfort Two-Piece",
+    "category": "kids",
+    "price": 25,
+    "image": "src/images/Dynamic Kids Comfort Two-Piec.webp"
+  } ,
+  {
+    "id": 33,
+    "name": "Monster Truck Tracksuit",
+    "category": "kids",
+    "price": 20,
+    "image": "src/images/Monster Truck Tracksuit.webp"
+  } ,
+  {
+    "id": 34,
+    "name": "Boys Light Blue Crocodile",
+    "category": "kids",
+    "price": 30,
+  
+    "image": "src/images/Boys Light Blue Crocodile.webp"
+  } ,
+  {
+    "id": 35,
+    "name": "Onion Outfits",
+    "category": "kids",
+    "price": 25,
+     
+    "image": "src/images/Onion Outfits.webp"
+  } ,
+  {
+    "id": 36,
+    "name": "Kids Mania",
+    "category": "kids",
+    "price": 30,
+    "image": "src/images/Kids Mania.webp"
+  } ,
+  {
+    "id": 37,
+    "name": "Kids Manie",
+    "category": "kids",
+    "price": 40,
+   
+    "image": "src/images/Kids Manie.webp"
+  } ,
+  {
+    "id": 38,
+    "name": "Boxy Tee & Regular Fit Trouser",
+    "category": "kids",
+    "price": 40,
+    "image": "src/images/Boxy Tee & Regular Fit Trouser.webp"
+  } ,
+  {
+    "id": 39,
+    "name": "Cotton Boxy Tee & Flare Trousers",
+    "category": "kids",
+    "price": 30,
+
+    "image": "src/images/Cotton Boxy Tee & Flare Trousers.webp"
+  } ,
+  {
+    "id": 40,
+    "name": "Cotton Comfy Kids Outfit",
+    "category": "kids",
+    "price": 30,
+    "image": "src/images/Cotton Comfy Kids Outfit.webp"
+  } ,
+  {
+    "id": 41,
+    "name": "Mickey Mouse",
+    "category": "kids",
+    "price": 30,
+    "image": "src/images/Girls Casual Grey Mickey Mouse.webp"
+  } ,
+  {
+    "id": 42,
+    "name": "Stripe Pants",
+    "category": "kids",
+    "price": 30,
+    
+    "image": "src/images/Graphic Tee & Side Stripe Pants.webp"
+  } ,
+  {
+    "id": 43,
+    "name": "Tee & Wide Leg Trouser",
+    "category": "kids",
+    "price": 30,
+    "image": "src/images/Graphic Tee & Wide Leg Trouser.webp"
+  } ,
+  {
+    "id": 44,
+    "name": "LILY LOVE FLORAL FROCKS",
+    "category": "kids",
+    "price": 40,
+    "image": "src/images/LILY LOVE FLORAL FROCKS.webp"
+  }
+  
+
+]
