@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import clothes from '../Components/clothes.json';
 import ProductCard from '../Components/ProductCard'; 
-export default function Shop() {
+export default function ProductDetails() {
   const [filter, setFilter] = useState("All");
   const filteredProducts = filter === "All" 
     ? clothes 
