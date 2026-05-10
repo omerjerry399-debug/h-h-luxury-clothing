@@ -5,7 +5,7 @@
     "price": 120,
     "salePrice": 100,
     "category": "men",
-    "image": "src/images/DBN.webp",
+    "image": "/images/DBN.webp",
     "isSale": true
   },
   {
@@ -14,7 +14,7 @@
     "price": 120,
     "salePrice": 100,
     "category": "women",
-    "image": "src/images/TEXTURED BLENDED PRINCE COAT.webp",
+    "image": "/images/TEXTURED-BLENDED-PRINCE-COAT.webp",
     "isSale": true
   },
   {
@@ -22,7 +22,7 @@
     "name": "DENIM JACKETS",
     "price": 50,
     "category": "men",
-    "image": "src/images/d.webp",
+    "image": "/images/d.webp",
     "isSale": false
   },
   {
@@ -30,7 +30,7 @@
    "name": "ZIPER HOODIE",
    "price": 30,
    "category": "kids",
-   "image": "src/images/ziper.webp",
+   "image": "/images/ziper.webp",
     "isSale": false
   }
 ]
