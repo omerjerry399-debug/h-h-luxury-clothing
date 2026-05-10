@@ -1,11 +1,4 @@
 import React from 'react'
-import hero1 from '../images/hero1.png'
-import hero2 from '../images/hero2.png'
-import hero3 from '../images/hero3.png'
-import suit from '../images/suit.jpg'
-import women from '../images/women.jpg'
-import child from '../images/child.jpg'
-import sale from '../images/sale.jpg'
 import { Link } from 'react-router-dom'
 import products from '../Components/Product'
 import { MdOutlineCheckBoxOutlineBlank } from "react-icons/md";
@@ -23,7 +16,7 @@ export default function Home() {
       <div className="overlay-dark"></div> 
       <img 
         className="d-block w-100" 
-        src={hero1} 
+        src="/images/hero1.png"
         alt="First slide" 
         style={{ height: '85vh', objectFit: 'cover' }}
       />
@@ -70,7 +63,7 @@ export default function Home() {
    <div className="col-md-3">
     <Link to="/shop/men" className='text-decoration-none'>
   <div className="category-card">
-     <div className='images'><img src={suit} className="img-fluid" /></div>
+     <div className='images'><img src="/images/suit.jpg" className="img-fluid" /></div>
     <div className="overlay">
       <h4>MEN</h4>
       <p>SHOP NOW</p>
@@ -80,7 +73,7 @@ export default function Home() {
 <div className="col-md-3">
   <Link to="/shop/women" className='text-decoration-none'>
   <div className="category-card">
-     <div className='images'><img src={women} className="img-fluid" /></div>
+     <div className='images'><img src="/images/women.jpg" className="img-fluid" /></div>
     <div className="overlay">
       <h4>WOMEN</h4>
       <p>SHOP NOW</p>
@@ -90,7 +83,7 @@ export default function Home() {
 <div className="col-md-3">
    <Link to="/shop/kids" className='text-decoration-none'>
   <div className="category-card">
-     <div className='images'><img src={child} className="img-fluid" /></div>
+     <div className='images'><img src="/images/child.jpg" className="img-fluid" /></div>
     <div className="overlay">
       <h4>KIDS</h4>
       <p>SHOP NOW</p>
@@ -100,7 +93,7 @@ export default function Home() {
 <div className="col-md-3">
   <Link to="/sales" className='text-decoration-none'>
   <div className="category-card">
-    <div className='images'><img src={sale} className="img-fluid" /></div>
+    <div className='images'><img src="/images/sale.jpg" className="img-fluid" /></div>
     <div className="overlay">
       <h4>SALE</h4>
       <p>SHOP NOW</p>
